@@ -1,0 +1,33 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}School index{% endblock %}
+
+{% block body %}
+    <h1>School</h1>
+    <hr>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Naam</th>
+            <th>actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for school in schools %}
+            <tr>
+                <td>{{ school.naam }}</td>
+                <td>
+                    <a class="btn btn-primary" href="{{ path('school_show', {'id': school.id}) }}">Bekijk</a>
+                    <a class="btn btn-warning" href="{{ path('school_edit', {'id': school.id}) }}">Bewerk</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="3">Geen gegevens gevonden</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a class="btn btn-success" href="{{ path('school_new') }}">Nieuw</a>
+{% endblock %}

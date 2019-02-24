@@ -1,0 +1,15 @@
+.knock-out-table{
+    float:left !important;
+    width: 250px !important;
+    margin: 15px !important;
+}
+.knock-out-table tr{
+    width: 250px !important;
+}
+.knock-out-table h2{
+    float: left;
+    width: 10%;
+}
+.cell{
+    background-color: #e9e9e9;
+}

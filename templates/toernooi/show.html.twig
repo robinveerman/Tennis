@@ -1,0 +1,31 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Toernooi{% endblock %}
+
+{% block body %}
+<h1>Toernooi</h1>
+<hr>
+<table class="table">
+    <tbody>
+	        <tr>
+            <th>Id</th>
+            <td>{{ toernooi.id }}</td>
+        </tr>
+	        <tr>
+            <th>Omschrijving</th>
+            <td>{{ toernooi.omschrijving }}</td>
+        </tr>
+	        <tr>
+            <th>Datum</th>
+            <td>{{ toernooi.datum ? toernooi.datum|date('Y-m-d H:i:s') : '' }}</td>
+        </tr>
+	    </tbody>
+</table>
+<br>
+<a class="btn btn-primary" href="{{ path('toernooi_index') }}">Terug</a>
+<br>
+<a class="btn btn-warning" href="{{ path('toernooi_edit', {'id': toernooi.id}) }}">Bewerken</a>
+<br>
+<br>
+{{ include('toernooi/_delete_form.html.twig') }}
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Wedstrijd{% endblock %}
+
+{% block body %}
+<h1>Wedstrijd toevoegen</h1>
+<hr>
+{{ include('wedstrijd/_form.html.twig') }}
+<br>
+<a class="btn btn-primary" href="{{ path('wedstrijd_index') }}">Terug</a>
+{% endblock %}

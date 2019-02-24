@@ -1,0 +1,51 @@
+<table class="table table-bordered">
+    <tr>
+        <th width="260">Ronde 1</th>
+        <th>Ronde 2 <a class="btn btn-success"
+                       href="{{ path('makeDuel', {'ronde': 2, 'toernooi': toernooi.id}) }}">+</a>
+        </th>
+        <th>Ronde 3</th>
+        <th>Ronde 4</th>
+        <th>Ronde 5</th>
+        <th>Ronde 6</th>
+        <th>Finale</th>
+    </tr>
+</table>
+<table class="table table-bordered knock-out-table">
+    {% for row in wedstrijd if row.ronde == 1 %}
+        <tr>
+            <td width="100" class="cell">{% if row.winnaarID == row.speler1ID %}
+                    <i style="color:gold" class="fas fa-crown"></i>
+                {% else %}
+                    <button id="{{ row.id }}{{ row.speler1ID.id }}" class="btn btn-success" onclick="win({{ row.id }},{{ row.speler1ID.id }}, this.id)">
+                        Win
+                    </button>
+                {% endif %}{{ row.speler1ID }}
+            </td>
+        </tr>
+        <tr>
+            <td width="100" class="cell">
+                {% if row.winnaarID == row.speler2ID %}
+                    <i style="color:gold" class="fas fa-crown"></i>
+                {% else %}
+                    <button id="{{ row.id }}{{ row.speler2ID.id }}" class="btn btn-success" onclick="win( {{ row.id }},{{ row.speler1ID.id }}, this.id)">
+                        Win
+                    </button>
+                {% endif %}{{ row.speler2ID }}
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+    {% endfor %}
+</table>
+<table class="table table-bordered knock-out-table">
+    {% for row in wedstrijd if row.ronde == 2 %}
+        <tr>
+            <td width="100">{{ row.speler1ID }}</td>
+        </tr>
+        <tr>
+            <td width="100">{{ row.speler2ID }}</td>
+        </tr>
+    {% endfor %}
+</table>

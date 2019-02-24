@@ -1,0 +1,56 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Speler index{% endblock %}
+
+{% block body %}
+    <h1>Speler</h1>
+    <hr>
+    <table class="table" id="lijst">
+        <thead>
+        <tr>
+            <th>Roepnaam</th>
+            <th>Tussenvoegsel</th>
+            <th>Achternaam</th>
+            <th>actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for speler in spelers %}
+            <tr>
+                <td>{{ speler.roepnaam }}</td>
+                <td>{{ speler.tussenvoegsel }}</td>
+                <td>{{ speler.achternaam }}</td>
+                <td>
+                    <a class="btn btn-primary" href="{{ path('speler_show', {'id': speler.id}) }}">Bekijk</a>
+                    <a class="btn btn-warning" href="{{ path('speler_edit', {'id': speler.id}) }}">Bewerk</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="5">Geen gegevens gevonden</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a class="btn btn-success" href="{{ path('speler_new') }}">Nieuw</a>
+{% endblock %}
+{% block javascripts %}
+    <script type="text/javascript" charset="utf-8">
+        $(document).ready(function () {
+            var table = $('#lijst').DataTable({
+                /*
+                                buttons: [
+                                    'copy', 'excel', 'pdf'
+                                ],
+                */
+                stateSave: true
+            });
+            /*
+                        table.buttons().container()
+                            .appendTo($('.col-sm-6:eq(0)', table.table().container()));
+            */
+            $('.dropdown-toggle').dropdown();
+        });
+    </script>
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Edit Wedstrijd{% endblock %}
+
+{% block body %}
+<h1>Wedstrijd bewerken</h1>
+<hr>
+<br>
+{{ include('wedstrijd/_form.html.twig', {'button_label': 'Opslaan'}) }}
+<br>
+<a href="{{ path('wedstrijd_index') }}" class="btn btn-primary">Terug</a>
+<br>
+<br>
+{{ include('wedstrijd/_delete_form.html.twig') }}
+{% endblock %}

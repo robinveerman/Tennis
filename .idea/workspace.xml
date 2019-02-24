@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c558c01-8a51-4275-9861-680106b1d28a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../KnockOutSysteem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7455d56c-46dd-44be-bb4d-73cf4e7fb5b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7455d56c-46dd-44be-bb4d-73cf4e7fb5b6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/DefaultController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/view.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/view.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/src/Controller/LijstjeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/src/Controller/LijstjeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/Profile/edit.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/Profile/edit.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/Profile/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/Profile/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/Security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/Security/login.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/layout.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/src/Resources/FOSUserBundle/views/layout.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/templates/default/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/templates/default/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lijst/templates/lijstje/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../lijst/templates/lijstje/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.env.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/newsblog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/symfony2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/bin/console" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/bin/phpunit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/bundles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/dev/debug.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/dev/easy_log_handler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/dev/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/dev/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/dev/swiftmailer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/doctrine_migrations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/fos_user.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/prod/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/prod/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/security.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/sensio_framework_extra.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/swiftmailer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/test/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/test/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/test/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/test/swiftmailer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/test/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/translation.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/packages/validator.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/routes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/routes/annotations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/routes/dev/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/routes/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/config/services.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/phpunit.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/images/111.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/adapters/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/build-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/contents.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/about/dialogs/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloonpanel/skins/kama/balloonpanel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloonpanel/skins/moono-lisa/balloonpanel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloonpanel/skins/moono-lisa/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloonpanel/skins/moono-lisa/images/hidpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloonpanel/skins/moono/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloonpanel/skins/moono/images/hidpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloontoolbar/skins/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloontoolbar/skins/kama/balloontoolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloontoolbar/skins/moono-lisa/balloontoolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/balloontoolbar/skins/moono/balloontoolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/clipboard/dialogs/paste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/colordialog/dialogs/colordialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/copyformatting/cursors/cursor-disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/copyformatting/cursors/cursor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/dialog/dialogDefinition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/div/dialogs/div.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/easyimage/dialogs/easyimagealt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/easyimage/styles/easyimage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/find/dialogs/find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/flash/dialogs/flash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/flash/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/hiddenfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/dialogs/textfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/forms/images/hiddenfield.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/iframe/dialogs/iframe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/iframe/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/image/dialogs/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/image/images/noimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/imagebase/styles/imagebase.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/link/dialogs/anchor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/link/dialogs/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/link/images/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/link/images/hidpi/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/liststyle/dialogs/liststyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/magicline/images/hidpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/magicline/images/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/magicline/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/pagebreak/images/pagebreak.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/preview/preview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/scayt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/scayt/dialogs/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/scayt/dialogs/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_blockquote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_div.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_h1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_h2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_h3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_h4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_h5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_h6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/showblocks/images/block_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/dialogs/smiley.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/angel_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/angel_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/angry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/angry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/broken_heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/broken_heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/confused_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/confused_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/cry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/cry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/devil_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/devil_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/embaressed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/embarrassed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/embarrassed_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/envelope.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/kiss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/lightbulb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/lightbulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/omg_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/omg_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/regular_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/regular_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/sad_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/sad_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/shades_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/shades_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/teeth_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/teeth_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/thumbs_down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/thumbs_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/thumbs_up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/thumbs_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/tongue_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/tongue_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/tounge_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/wink_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/smiley/images/wink_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/specialchar/dialogs/specialchar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/table/dialogs/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/tableselection/styles/tableselection.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/tabletools/dialogs/tableCell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/templates/dialogs/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/templates/templates/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/templates/templates/images/template1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/templates/templates/images/template2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/templates/templates/images/template3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/widget/images/handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/dialogs/wsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/dialogs/wsc_ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/css/samples.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/img/github-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/img/header-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/img/header-separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/img/navigation-tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/js/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/js/sf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/appendto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/assets/inlineall/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/assets/posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/assets/sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/assets/uilanguages/languages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/datafiltering.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/dialog/assets/my_dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/dialog/dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/divreplace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/easyimage/easyimage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/enterkey/enterkey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/htmlwriter/outputforflash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/htmlwriter/outputhtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/inlineall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/inlinebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/inlinetextarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/jquery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/magicline/magicline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/readonly.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/replacebyclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/replacebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/sample.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/sample_posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/tabindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/toolbar/toolbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/uicolor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/uilanguages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/wysiwygarea/fullpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/old/xhtmlstyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/font/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/hidpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/hidpi/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/images/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/javascript/ckeditor/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/uploads/2299c659880395dbb7d20e675904e409.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/uploads/34da27c2117933feebc48bbd941169de.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/uploads/4f82ca67584c23c1a3740775cbba2f4d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/uploads/5b5484dc9cd82a3510106b343ed7b9c7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/uploads/6bd8cbd969903953b0c15198c4d52282.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/public/uploads/88931ebbd5c84d438e83bf02cbdbdb8a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Controller/ArticleController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Controller/CategoryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Controller/DefaultController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Entity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Entity/Article.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Entity/Category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Entity/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Form/ArticleType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Form/CategoryType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Repository/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Repository/ArticleRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Repository/CategoryRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/ChangePassword/change_password.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/ChangePassword/change_password_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/edit.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/edit_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/list_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/new.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/new_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Group/show_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Profile/edit.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Profile/edit_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Profile/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Profile/show_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Registration/check_email.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Registration/confirmed.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Registration/email.txt.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Registration/register.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Registration/register_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Resetting/check_email.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Resetting/email.txt.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Resetting/request.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Resetting/request_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Resetting/reset.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Resetting/reset_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Security/login.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/Security/login_content.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/src/Resources/FOSUserBundle/views/layout.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/symfony.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/article/_delete_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/article/_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/article/edit.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/article/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/article/new.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/article/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/category/_delete_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/category/_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/category/edit.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/category/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/category/new.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/category/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/templates/default/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/tests/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newsblog/translations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reservatie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/src/Controller/BestellingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/src/Controller/BestellingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/src/Controller/BoekingsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/src/Controller/BoekingsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/src/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/src/Controller/DefaultController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/src/Entity/Bestelling.php" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/src/Entity/Bestelling.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/src/Entity/Reservering.php" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/src/Entity/Reservering.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/templates/bestelling/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/templates/bestelling/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/templates/dashboard/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/templates/dashboard/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/templates/reservering/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/templates/reservering/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/public/style/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/public/style/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/public/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/public/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/CartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/CartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/CategorieController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/CategorieController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/DashboardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/DashboardController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/DefaultController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/FactuurController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/FactuurController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/NAWController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/NAWController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/SettingsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/SettingsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Controller/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Controller/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Entity/Factuur.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Entity/Factuur.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Entity/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Entity/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Entity/Reacties.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Entity/Reacties.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Entity/Regel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Entity/Regel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Entity/Settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Entity/Settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Form/FactuurType.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Form/FactuurType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Form/ProductType.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Form/ProductType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Form/ReactiesType.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Form/ReactiesType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Form/SettingsType.php" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Form/SettingsType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Profile/edit.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Profile/edit.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Profile/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Profile/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Profile/show_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Profile/show_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Registration/confirmed.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Registration/confirmed.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Registration/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Registration/register.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Security/login.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Security/login_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/Security/login_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/layout.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/src/Resources/FOSUserBundle/views/layout.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/Cart/cart.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/Cart/cart.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/base2.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/base2.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/categorie/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/categorie/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/dashboard/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/dashboard/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/default/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/default/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/factuur/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/factuur/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/factuur/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/factuur/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/product/_delete_form.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/product/_delete_form.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/product/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/product/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/product/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/product/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/reacties/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/reacties/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/settings/edit.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/settings/edit.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webshop/templates/user/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../webshop/templates/user/index.html.twig" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tennistoernooi@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tennistoernooi@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tennistoernooi@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tennistoernooi: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tennisToernooi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="149" selection-start-line="149" selection-end-line="149" />
+              <folding>
+                <element signature="e#34#56#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/packages/security.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/view.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/accessdenied.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Toernooi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="twig" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'App:Speler'</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Entity/User.php" />
+        <option value="$PROJECT_DIR$/config/packages/security.yaml" />
+        <option value="$PROJECT_DIR$/config/packages/fos_user.yaml" />
+        <option value="$PROJECT_DIR$/config/routes.yaml" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Registration/register.html.twig" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Registration/confirmed.html.twig" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Profile/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Profile/edit.html.twig" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/ChangePassword/change_password.html.twig" />
+        <option value="$PROJECT_DIR$/config/packages/twig.yaml" />
+        <option value="$PROJECT_DIR$/config/services.yaml" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Security/login_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Registration/register_content.html.twig" />
+        <option value="$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/_delete_form.tpl.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/_form.tpl.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/edit.tpl.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/index.tpl.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/new.tpl.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/show.tpl.php" />
+        <option value="$PROJECT_DIR$/src/Entity/School.php" />
+        <option value="$PROJECT_DIR$/src/Form/SpelerType.php" />
+        <option value="$PROJECT_DIR$/src/Entity/Toernooi.php" />
+        <option value="$PROJECT_DIR$/templates/user/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Form/UserType.php" />
+        <option value="$PROJECT_DIR$/templates/user/index.html.twig" />
+        <option value="$PROJECT_DIR$/templates/toernooi/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Form/ToernooiType.php" />
+        <option value="$PROJECT_DIR$/templates/default/accessdenied.html.twig" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Controller/SchoolController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/SpelerController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/ToernooiController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/UserController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/WedstrijdController.php" />
+        <option value="$PROJECT_DIR$/templates/school/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Form/WedstrijdType.php" />
+        <option value="$PROJECT_DIR$/public/datatables.min.js" />
+        <option value="$PROJECT_DIR$/src/Entity/Wedstrijd.php" />
+        <option value="$PROJECT_DIR$/templates/wedstrijd/index.html.twig" />
+        <option value="$PROJECT_DIR$/templates/speler/index.html.twig" />
+        <option value="$PROJECT_DIR$/public/styles/styles.css" />
+        <option value="$PROJECT_DIR$/src/Entity/Speler.php" />
+        <option value="$PROJECT_DIR$/templates/base.html.twig" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7455d56c-46dd-44be-bb4d-73cf4e7fb5b6/console.sql" />
+        <option value="$PROJECT_DIR$/templates/default/view.html.twig" />
+        <option value="$PROJECT_DIR$/templates/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/config/packages/framework.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/vendor/symfony/panther" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/symfony/templating" />
+      <path value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="Datatables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="wedstrijd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsofsymfony" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsofsymfony" type="462c0819:PsiDirectoryNode" />
+              <item name="user-bundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TennisToernooi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TennisToernooi" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsofsymfony" type="462c0819:PsiDirectoryNode" />
+              <item name="user-bundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My Asus\symfony4\TennisToernooi\templates\default" />
+      <recent name="C:\Users\My Asus\symfony4\TennisToernooi\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My Asus\symfony4\TennisToernooi\src\Resources\FOSUserBundle" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c558c01-8a51-4275-9861-680106b1d28a" name="Default Changelist" comment="" />
+      <created>1546863802503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546863802503</updated>
+      <workItem from="1546863803761" duration="21668000" />
+      <workItem from="1547025279982" duration="24915000" />
+      <workItem from="1547194148388" duration="68000" />
+      <workItem from="1547198161836" duration="574000" />
+      <workItem from="1547203993725" duration="20000" />
+      <workItem from="1547450330200" duration="11495000" />
+      <workItem from="1547569888382" duration="713000" />
+      <workItem from="1549395012761" duration="2268000" />
+      <workItem from="1550579756031" duration="1491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63212000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/packages/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/services.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/_delete_form.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/_form.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/edit.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/index.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/show.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="171" selection-start-line="18" selection-start-column="171" selection-end-line="18" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/maker-bundle/src/Resources/skeleton/crud/templates/new.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Form/SchoolType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/School.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Form/SpelerType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repository/ToernooiRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Form/UserType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/toernooi/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Security/login_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="102" selection-start-line="13" selection-start-column="102" selection-end-line="13" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Form/ToernooiType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/SchoolController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding>
+            <element signature="e#34#56#0#PHP" expanded="true" />
+            <element signature="e#739#771#1#PHP" expanded="true" />
+            <element signature="e#1481#1513#1#PHP" expanded="true" />
+            <element signature="e#1814#1846#1#PHP" expanded="true" />
+            <element signature="e#2514#2546#1#PHP" expanded="true" />
+            <element signature="e#3073#3105#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/SpelerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="117" column="67" selection-start-line="117" selection-start-column="67" selection-end-line="117" selection-end-column="67" />
+          <folding>
+            <element signature="e#769#801#1#PHP" expanded="true" />
+            <element signature="e#1576#1608#1#PHP" expanded="true" />
+            <element signature="e#1945#1977#1#PHP" expanded="true" />
+            <element signature="e#2708#2740#1#PHP" expanded="true" />
+            <element signature="e#3312#3344#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ToernooiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="117" column="67" selection-start-line="117" selection-start-column="67" selection-end-line="117" selection-end-column="67" />
+          <folding>
+            <element signature="e#791#823#1#PHP" expanded="true" />
+            <element signature="e#1622#1654#1#PHP" expanded="true" />
+            <element signature="e#2003#2035#1#PHP" expanded="true" />
+            <element signature="e#2788#2820#1#PHP" expanded="true" />
+            <element signature="e#3404#3436#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="120" column="67" selection-start-line="120" selection-start-column="67" selection-end-line="120" selection-end-column="67" />
+          <folding>
+            <element signature="e#783#815#1#PHP" expanded="true" />
+            <element signature="e#1566#1598#1#PHP" expanded="true" />
+            <element signature="e#1923#1955#1#PHP" expanded="true" />
+            <element signature="e#2664#2696#1#PHP" expanded="true" />
+            <element signature="e#3256#3288#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Form/WedstrijdType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/WedstrijdController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="106" column="69" selection-start-line="106" selection-start-column="69" selection-end-line="106" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webshop/public/datatables.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56525">
+          <caret line="3328" selection-start-line="3328" selection-end-line="3328" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/school/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Wedstrijd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/school/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Datatables/datatables.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/speler/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Registration/register_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/FOSUserBundle/views/Registration/register.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/fos_user.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/routing.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/RegistrationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/CreateUserCommand.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7455d56c-46dd-44be-bb4d-73cf4e7fb5b6/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/wedstrijd/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="72" column="13" lean-forward="true" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/security.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/view.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/accessdenied.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Toernooi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Speler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="78" selection-start-line="41" selection-start-column="78" selection-end-line="41" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://7455d56c-46dd-44be-bb4d-73cf4e7fb5b6/schema/tennistoernooi/table/wedstrijd">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/framework.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+          <folding>
+            <element signature="e#34#56#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

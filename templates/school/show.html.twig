@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}School{% endblock %}
+
+{% block body %}
+<h1>School</h1>
+<hr>
+<table class="table">
+    <tbody>
+	        <tr>
+            <th>Id</th>
+            <td>{{ school.id }}</td>
+        </tr>
+	        <tr>
+            <th>Naam</th>
+            <td>{{ school.naam }}</td>
+        </tr>
+	    </tbody>
+</table>
+<br>
+<a class="btn btn-primary" href="{{ path('school_index') }}">Terug</a>
+<br>
+<a class="btn btn-warning" href="{{ path('school_edit', {'id': school.id}) }}">Bewerken</a>
+<br>
+<br>
+{{ include('school/_delete_form.html.twig') }}
+{% endblock %}

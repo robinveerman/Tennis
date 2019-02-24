@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Speler{% endblock %}
+
+{% block body %}
+<h1>Speler toevoegen</h1>
+<hr>
+{{ include('speler/_form.html.twig') }}
+<br>
+<a class="btn btn-primary" href="{{ path('speler_index') }}">Terug</a>
+{% endblock %}

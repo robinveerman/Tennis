@@ -1,0 +1,74 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Wedstrijd index{% endblock %}
+
+{% block body %}
+    <h1>Wedstrijd</h1>
+    <hr>
+    <table class="table" id="lijst">
+        <thead>
+        <tr>
+            <th>Toernooi</th>
+            <th>Ronde</th>
+            <th>Spelers</th>
+            <th>Scores</th>
+            <th>actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for wedstrijd in wedstrijds %}
+            <tr>
+                <td>{{ wedstrijd.toernooiID }}</td>
+                <td>{{ wedstrijd.ronde }}</td>
+                <td>
+                    {% if wedstrijd.winnaarID %}
+                        {% if wedstrijd.winnaarID == wedstrijd.speler1ID %}
+                            <i style="color:gold"
+                               class="fas fa-crown"></i> {{ wedstrijd.speler1ID }} - {{ wedstrijd.speler2ID }}
+                        {% else %}
+                            {{ wedstrijd.speler1ID }} -  {{ wedstrijd.speler2ID }} <i style="color:gold"
+                                                                                      class="fas fa-crown"></i>
+                        {% endif %}
+                    {% else %}
+                        {{ wedstrijd.speler1ID }}
+                        -
+                        {{ wedstrijd.speler2ID }}
+                    {% endif %}</td>
+                <td>{{ wedstrijd.score1 ? wedstrijd.score1 : 'Geen score' }}
+                    - {{ wedstrijd.score2 ? wedstrijd.score2 : 'Geen score' }}</td>
+
+
+                <td>
+                    <a class="btn btn-primary" href="{{ path('wedstrijd_show', {'id': wedstrijd.id}) }}">Bekijk</a>
+                    <a class="btn btn-warning" href="{{ path('wedstrijd_edit', {'id': wedstrijd.id}) }}">Bewerk</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="5">Geen gegevens gevonden</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a class="btn btn-success" href="{{ path('wedstrijd_new') }}">Nieuw</a>
+{% endblock %}
+{% block javascripts %}
+    <script type="text/javascript" charset="utf-8">
+        $(document).ready(function () {
+            var table = $('#lijst').DataTable({
+                /*
+                                buttons: [
+                                    'copy', 'excel', 'pdf'
+                                ],
+                */
+                stateSave: true
+            });
+            /*
+                        table.buttons().container()
+                            .appendTo($('.col-sm-6:eq(0)', table.table().container()));
+            */
+            $('.dropdown-toggle').dropdown();
+        });
+    </script>
+{% endblock %}

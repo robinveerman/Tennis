@@ -1,0 +1,52 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello DefaultController!{% endblock %}
+{% block body %}
+    <h1>welkom</h1>
+    <hr>
+    {% for row in toernooien %}
+        <a href="{{ path('makeGame', {'toernooi': row.id}) }}" class="btn btn-primary">+
+            wedstrijd {{ row.omschrijving }}</a>
+    {% endfor %}
+    <hr>
+    <select class="form-control" onchange="redirect(this.value)">
+        <option>Kies een toernooi</option>
+        {% for row in toernooien %}
+            <option value="{{ row.id }}">{{ row.omschrijving }}</option>
+        {% endfor %}
+    </select>
+    <hr>
+    <div id="result"></div>
+{% endblock %}
+{% block javascripts %}
+    <script>
+        function redirect(route) {
+            console.log("check");
+            var xhttp;
+
+            xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("result").innerHTML = this.responseText;
+                }
+            };
+            xhttp.open("GET", "/get/" + route, true);
+            xhttp.send();
+        }
+
+        function win(speler, wedstrijd, id) {
+            document.getElementById(id).className = "fas fa-crown";
+            document.getElementById(id).innerHTML = "";
+            document.getElementById(id).style = "color:yellow";
+
+
+            var xhttp;
+
+            xhttp = new XMLHttpRequest();
+
+            xhttp.open("GET", "/winnaar/" + speler + '/' + wedstrijd, true);
+            xhttp.send();
+        }
+    </script>
+
+{% endblock %}

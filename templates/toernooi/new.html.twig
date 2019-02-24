@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Toernooi{% endblock %}
+
+{% block body %}
+<h1>Toernooi toevoegen</h1>
+<hr>
+{{ include('toernooi/_form.html.twig') }}
+<br>
+<a class="btn btn-primary" href="{{ path('toernooi_index') }}">Terug</a>
+{% endblock %}
+{% block javascripts %}
+    <script>
+        $(document).ready(function () {
+            $('.js-example-basic-multiple').select2();
+        });
+
+        document.getElementById('toernooi_spelers').className = 'js-example-basic-multiple';
+        document.getElementById('toernooi_spelers').style = 'width: 100%;';
+    </script>
+{% endblock %}
